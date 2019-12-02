@@ -9,12 +9,12 @@
 
 /* Reset */
 :root {
-  --color1: #008d07;
-  --color2: #d1f1e9;
-  --color3: #b6e9dc;
-  --color4: #5ed0b1;
-  --color5: #39c29d;
-  --color6: #5ccfb0;
+  --color1: #212121;
+  --color2: #424242;
+  --color3: #616161;
+  --color4: #757575;
+  --color5: #9E9E9E;
+  --color6: #BDBDBD;
 }
 /*
   --color1: #008d07;
