@@ -2043,12 +2043,12 @@
 			}
 
 		.image.avatar {
-			border-radius: 9%;
+			border-radius: 5%;
 			overflow: hidden;
 		}
 
 			.image.avatar img {
-				border-radius: 9%;
+				border-radius: 5%;
 				display: block;
 				width: 100%;
 			}
